@@ -1,0 +1,6 @@
+-- DROP DATABASE IF EXISTS finsta_db;
+-- CREATE DATABASE finsta_db;
+
+
+DROP DATABASE IF EXISTS blog_db;
+CREATE DATABASE blog_db;

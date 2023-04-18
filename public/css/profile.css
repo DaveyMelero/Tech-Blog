@@ -1,0 +1,116 @@
+
+   .post-div {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    /* padding: 1rem; */
+    margin-bottom: 1rem;
+  }
+  
+  
+  .post-div .delete-btn {
+    margin-left: auto;
+  }
+
+  .button-div {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+  }
+  
+  .title-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f9fa;
+  }
+  
+  .title-div h3 {
+    margin: 0.5rem;
+
+  }
+  
+  .content-div {
+    margin-top: 0.5rem;
+    padding: 1rem;
+  }
+  
+  
+  .container-fluid {
+    margin-top: 100px;
+  }
+  
+  .card {
+    margin-bottom: 1rem;
+  }
+  
+  .card-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  .card-header img {
+    display: block;
+    width: 40px;
+    border-radius: 50%;
+  }
+  
+  .card-header .media-body {
+    margin-left: 1rem;
+  }
+  
+  .card-header .small {
+    margin-left: 1rem;
+  }
+  
+  .card-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin-top: 1rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .card-footer .px-4 {
+    padding-top: 0.75rem;
+  }
+  
+  .card-footer .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .card-footer .btn-primary:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  #new-post-section {
+    margin-top: 1rem;
+  }
+  
+  .new-post-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .new-post-form label {
+    margin-bottom: 0.5rem;
+  }
+  
+  .new-post-form input[type="text"],
+  .new-post-form textarea {
+    margin-bottom: 1rem;
+  }
+  
+  #show-posts-button {
+    margin-top: 1rem;
+  }
+  
+  
+  

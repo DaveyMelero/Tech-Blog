@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Sal",
+      "email": "marksalazar73@gmail.com",
+      "password": "password12345",
+      "id": 1
+    },
+    {
+      "name": "Angel",
+      "email": "Angel@gmail.com",
+      "password": "password12345",
+      "id": 2
+    },
+    {
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "password": "password12345",
+      "id": 3
+    },
+    {
+        "name": "Davey",
+        "email": "davey@gmail.com",
+        "password": "password12345",
+        "id": 4
+      }
+    
+  ]
+  
