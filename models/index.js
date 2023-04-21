@@ -1,7 +1,7 @@
 // require('dotenv').config();
 const User = require('./User');
 
-const Post = require('./Post');
+const Post = require('./post');
 
 User.hasMany( Post , {
     foreignKey: 'user_id',
